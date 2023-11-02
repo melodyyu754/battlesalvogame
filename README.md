@@ -87,4 +87,21 @@ The CS3500 TAs created a visual representation of each game being played to faci
 
 https://github.com/melodyyu754/battlesalvogame/assets/118621363/b7b2b567-b826-4cb1-b95f-7618d8d7b742
 
+## Reflection
+### My Overall Experience Working on this Project
+I thorughly enjoyed working on this project. The first phase of the project was done individually (without server capabilities), and it is one of the projects I am proudest of completing. The second phase of the project was done with a partner. Olivia and I pair programmed often, diagraming ideas on a whiteboard. It was extremely rewarding to see our work come to fruition during the tournament we played during class and received extra credit for our algorithm.
 
+### Challenges I Faced
+This was my first time working with JSON objects and servers, and the new syntax and bugs we faced were much more difficult to deal with than simple logic errors with previous projects. It was sometimes difficult to parse through logs of errors to find out what was really going wrong. Additionally, it was a larger scale project and it was sometimes hard to keep track of the logic between the MVC.
+
+### Changes I Would Make
+There are two main things I would work on if I returned to this project or did it over.
+
+1) I would improve my AI algorithm. Though ours did fairly well in the tournament, I would focus on creating and testing a probability map algorithm that would create probability values for each coordinate on the board as a way to optimize shots taken.
+
+2) I would further break up my code into components and helper methods. There are methods that are more complex than I would prefer, and I would focus on decoupling components.
+
+### What I Learned
+I learned many fundamental skills from this project. On the technical side, I learned how to create JSON objects and communicate with a server. I also learned more about the MVC pattern and how to keep my program in alignment with SOLID design principles. It was especially helpful to create a UML diagram to conceptualize the parts of the program first.
+
+Beyond the technical aspects, I learned how to collaborate with others. This included using software such as github and dealing with merge conflicts, as well as how helpful it was to be able to talk through code and concepts with someone else. It was a fast paced project completed in about 2 weeks, and it was immensely rewarding to see the final result.
